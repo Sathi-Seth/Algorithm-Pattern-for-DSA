@@ -15,6 +15,9 @@ organized by *patterns and problem-solving techniques*.
 - Sliding Window
 - Two Pointers
 - Cyclic Sort (Index-Based)
+- Knuth-Morris-Pratt (KMP) Algorithm
+- Rabin-Karp Algorithm
+- Boyer-Moore Algorithm
 - Reversal of Linked List 
 - Matrix Manipulation
 - Breadth First Search (BFS)
