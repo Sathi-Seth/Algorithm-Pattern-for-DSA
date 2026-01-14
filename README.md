@@ -12,6 +12,7 @@ organized by *patterns and problem-solving techniques*.
 - Fast and Slow Pointers
 - Overlapping Intervals
 - Prefix Sum
+- Sorting Algorithm
 - Sliding Window
 - Two Pointers
 - Cyclic Sort (Index-Based)
