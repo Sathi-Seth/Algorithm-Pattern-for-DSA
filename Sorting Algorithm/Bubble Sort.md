@@ -32,4 +32,7 @@ public static void bubbleSort(int arr[]){
 - then , this process continue until `arr[n-1]`
 - After every pass, the largest element settles at the end of the array.
 
+## Time Complexity : O(n^2)
+## Space Complexity : O(1)
+
  
