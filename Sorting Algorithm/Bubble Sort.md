@@ -1,3 +1,5 @@
+## <ins>Introduction</ins> : Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order.
+
 ```java
 public static void bubbleSort(int arr[]){
     int n = arr.length;
