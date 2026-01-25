@@ -14,6 +14,7 @@ organized by *patterns and problem-solving techniques*.
 - Prefix Sum or Suffix Sum
 - Sorting Algorithm
 - Sliding Window
+- Rotated and sorted array
 - Two Pointers
 - Cyclic Sort (Index-Based)
 - Knuth-Morris-Pratt (KMP) Algorithm
