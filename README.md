@@ -11,7 +11,7 @@ organized by *patterns and problem-solving techniques*.
 ### 🧠 Covered Patterns
 - Fast and Slow Pointers
 - Overlapping Intervals
-- Prefix Sum
+- Prefix Sum or Suffix Sum
 - Sorting Algorithm
 - Sliding Window
 - Two Pointers
@@ -21,6 +21,7 @@ organized by *patterns and problem-solving techniques*.
 - Boyer-Moore Algorithm
 - Reversal of Linked List 
 - Matrix Manipulation
+- Matrix Traversal
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
 - Backtracking
