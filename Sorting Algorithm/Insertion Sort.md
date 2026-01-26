@@ -1,3 +1,5 @@
+## <ins>Introduction</ins> : Insertion sort is a simple, in-place, stable sorting algorithm that works by building a final sorted array one item at a time. It is efficient for small data sets or nearly sorted lists but less efficient for large, randomly ordered lists. 
+
 ```java
 public static void insertionSort(int arr[]){
         for(int i=1 ; i<arr.length ; i++){
