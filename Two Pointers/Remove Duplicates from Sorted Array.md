@@ -1,1 +1,1 @@
-
+## <ins>Introduction</ins> : The Two-Pointers Technique is a simple yet powerful strategy where you use two indices (pointers) that traverse a data structure—such as an array, list, or string—either toward each other or in the same direction to solve problems more efficiently.
