@@ -39,8 +39,3 @@ organized by *patterns and problem-solving techniques*.
 ### 🛠 Language Used
 - Java (Primary)
 
-### 📅 Progress
-- Started: Jan 2025
-- Questions Solved: Updating daily
-
-Consistency > Quantity
