@@ -25,6 +25,15 @@ organized by *patterns and problem-solving techniques*.
 - Matrix Traversal
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
+- Dijkstra’s Algorithm
+- Bellman-Ford & SPFA
+- Kruskal’s or Prim’s Algorithm
+- Topological Sort (Kahn's Algorithm / DFS-based)
+- Trie (Prefix Tree)
+- Disjoint Set Union (DSU / Union-Find)
+- Bitmask DP
+- Manacher’s Algorithm
+- Line Sweep Algorithm
 - Backtracking
 - Binary Search
 - Bitwise XOR
